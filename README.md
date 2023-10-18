@@ -1,6 +1,7 @@
 # Weather-App
 
 We want to create an application that can give live details about the weather in any location.
+
 Some of the details that we want in the weather are:
 
 1. Temperature (in Celcius and Farenheit)
